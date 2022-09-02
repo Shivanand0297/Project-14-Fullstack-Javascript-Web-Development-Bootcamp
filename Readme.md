@@ -34,13 +34,21 @@
 
 ## About The Project
 
-Dance Landing Page using Pure HTML & CSS.
+Dance Landing Page for some random institute using Pure HTML & CSS.
 
-![Project-13: SAAS Landing Page](https://github.com/Shivanand0297/Project-13-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-13/images/SAAS%20Home%20Page.png)
+#### For large screen
 
-![Screen Shots](https://github.com/Shivanand0297/Project-13-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-13/images/Screenshot%202022-08-30%20234351.png)
+![large-screen](https://github.com/Shivanand0297/Project-14-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-14/laptop%20ss.png)
 
-![Cards](https://github.com/Shivanand0297/Project-13-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-13/images/Screenshot%202022-08-30%20234416.png)
+#### For medium screen
+
+
+![medium-screen](https://github.com/Shivanand0297/Project-14-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-14/tablet.png)
+
+#### For small screen
+
+
+![Phone-screen](https://github.com/Shivanand0297/Project-14-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-14/phone%20ss.png)
 
 
 
@@ -78,10 +86,11 @@ Source Code :
 ## Learnings
 
 - ✔ HTML 5
-- ✔ CSS 4
+- ✔ CSS 
   - ✔ How to plan the arrangement of elements inside div keeping in mind the flex property and responsiveness.
   - ✔ Image Invert Property
   - ✔ Flexbox
+  - ✔ Positions
   - ✔ Handling image inside div 
   - ✔ How to handle svg images
   - ✔ Media Queries for responsiveness
@@ -119,6 +128,7 @@ For this project I took around `11 hours` to complete it. The major portion of m
 <!-- Linkedin -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
+
 [linkedin-url]: https://www.linkedin.com/in/shivanand-prajapati-2a5423167/
 
 <!-- Instagram -->
@@ -147,6 +157,6 @@ For this project I took around `11 hours` to complete it. The major portion of m
 
 <!-- Project screenshot -->
 
-[project-url]: https://shivanand-project-13-SAAS-landing.netlify.app
+[project-url]: https://shivanand-project-14-dance-landing.netlify.app/
 
-[source-code]: https://github.com/Shivanand0297/Project-13-Fullstack-Javascript-Web-Development-Bootcamp
+[source-code]: https://github.com/Shivanand0297/Project-14-Fullstack-Javascript-Web-Development-Bootcamp
